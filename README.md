@@ -4,4 +4,17 @@ This is a Tic-Tac-Toe (also called 'noughts and crosses' or 'Xs and Os' dependin
 
 This project is not currently on crates.io as it's just a binary crate, but I may restructure it as a library in the future and publish it to crates.io.
 
-This repo is published and dual-licensed under the MIT and Apache 2.0 licenses. Any contributions to the repo will be part of the project and thus under the same such licenses as the project. By submitting to the repo you acknowledge and agree to these terms (and as such you must have permission of the copyright holders of any assets included in your contributions to submit on their behalf and have them licensed as specified above).
+## License
+
+Licensed under either of
+
+* Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+* MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+
+at your option.
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any
+additional terms or conditions.
